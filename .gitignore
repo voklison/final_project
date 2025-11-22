@@ -1,8 +1,0 @@
-DB_NAME=data-analyst-afisha
-DB_HOST=rc1b-wcoijxj3yxfsf3fs.mdb.yandexcloud.net
-DB_PORT=6432
-DB_USER=praktikum_student
-DB_PASSWORD=Sdf4;d-d30pp
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
