@@ -14,7 +14,7 @@
 * Установить зависимости: pip install -r requirements.txt
 * Создать файл .env с параметрами подключения к БД
 * Запустить Jupyter: jupyter notebook
-* Открыть voklison_fp_v2.ipynb
+* Открыть voklison_fp_v3.ipynb
 
 ## Ключевые результаты
 * Выявлены сегменты пользователей с наибольшей лояльностью
